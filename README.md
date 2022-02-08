@@ -15,3 +15,9 @@ https://agpritts.github.io/challenge3-password-generator/
 
 ## Contribution
 Adam P.
+
+## Screenshots
+
+<img width="1173" alt="Screen Shot 2022-02-08 at 6 32 38 PM" src="https://user-images.githubusercontent.com/96213926/153093545-85dbc44d-2de5-432b-be1d-20f5e7433739.png">
+
+<img width="1171" alt="Screen Shot 2022-02-08 at 6 32 54 PM" src="https://user-images.githubusercontent.com/96213926/153093559-37d05a77-ea78-4ff3-9064-7df830412e04.png">
