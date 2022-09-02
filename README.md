@@ -1,4 +1,4 @@
-# Challenge 3: Password Generator
+# 🔐 Password Generator
 
 ## Work Done
 Wrote and refactored all JavaScript notation </br>
